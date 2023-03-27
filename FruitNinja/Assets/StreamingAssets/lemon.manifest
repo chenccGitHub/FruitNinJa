@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1061772554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdf49cc9717a1bc7d6f8c9e99c8a9784
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e11f4430a9e09dd28d8308441baeffac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eaf36e1b3fc845540ae3ecabbaf92530, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/AB/Lemon.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2550826891
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: watermelon
+      Dependencies: {}
+    Info_1:
+      Name: lemon
+      Dependencies: {}
+    Info_2:
+      Name: bomb
+      Dependencies: {}
+    Info_3:
+      Name: orange
+      Dependencies: {}
+    Info_4:
+      Name: kiwi
+      Dependencies: {}
+    Info_5:
+      Name: apple
+      Dependencies: {}
